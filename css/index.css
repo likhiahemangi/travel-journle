@@ -1,0 +1,35 @@
+.header{
+    font-size: 2rem;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    margin-top: 1rem;
+}
+.main{
+    margin: 0%;
+}
+a{
+    color: white;
+    text-decoration-line: none;
+    position: absolute;
+}  
+.city-name{
+     position: relative;
+}
+.city{
+    opacity: 1.0;
+}
+.city:hover{
+    opacity: 0.6;
+    background-color: black;
+    backface-visibility: hidden;
+}
+.text{
+
+    top: 17rem;
+    left: 20rem;
+   text-decoration-line: none;
+   color: white;
+   font-size: 2rem;
+   position: relative;;
+}
